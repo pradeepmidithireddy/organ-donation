@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+  <head>
+       <title>Home</title>
+	   <style>
+               .menuitems{
+			             
+						 padding:50px;
+					   }
+					   .menuitem{
+					              padding:30px;
+								 font-size:30px;
+								 text-decoration:none;
+								 color:blue;
+								 border:solid black;
+									 }
+									  .logo{
+									         margin-bottom:0;
+											 padding-left:0%;
+											} 
+											.home{
+											     font-size:40Px;
+												 align :right;
+												 }
+												 a:hover{
+								      background-color:black;
+									  color:white;
+									  }
+		 </style>
+	</head>
+	<body >
+	<center>
+	 <div class="logo">
+		   <img src="C:\Users\MBASYSTEM55\Desktop\213526\images.jpg" width="20%" height="15%">
+		   </div>
+	     <div class="menuitems">
+		 <a href="home.html" class="menuitem">Home</a>
+		 <a href="login.html" class="menuitem">Login</a>
+		 <a href="register.html" class="menuitem">Register</a>
+		 <a href="contactus.html" class="menuitem">Contact us</a>
+         <a href="aboutus.html" class="menuitem">About us</a>
+		 </div>
+		 <div class="home">
+		 <h5>
+		       Organ donation is defined as “When a person allows an organ of theirs to be removed, legally, either by consent while the donor is alive or after death.Donating the organs means we are saving ther lives. </h5>
+			   <img src="C:\Users\MBASYSTEM55\Desktop\213526\1.jpg" width="25%" height="15%">
+	</div>  
+	</body>
+	</html>

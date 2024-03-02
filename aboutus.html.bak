@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+  <head>
+       <title>aboutus</title>
+	     <style>
+               .menuitems{
+			             
+						 padding:50px;
+					   }
+					   .menuitem{
+					              padding:30px;
+								 font-size:30px;
+								 text-decoration:none;
+								 color:blue;
+								 border:solid black;
+									 }
+									  .logo{
+									         margin-bottom:0;
+											 padding-left:30%;
+											} 
+											.home{
+											     font-size:40Px;
+												 align :right;
+												 }
+												 a:hover{
+								      background-color:black;
+									  color:white;
+									  }
+		 </style>
+	</head>
+	<body bgcolor="pink">
+	 <div class="logo">
+		   <img src="C:\Users\MBASYSTEM55\Desktop\213526\images.jpg" width="20%" height="15%">
+		   </div>
+	     <div class="menuitems">
+		 <a href="home.html" class="menuitem">Home</a>
+		 <a href="login.html" class="menuitem">Login</a>
+		 <a href="register.html" class="menuitem">Register</a>
+		 <a href="contactus.html" class="menuitem">Contact us</a>
+         <a href="aboutus.html" class="menuitem">About us</a>
+		 </div>		 					      
+		 <p><h3>
+		     Organ donation in India is regulated by the Transplantation of Human Organs and Tissues Act, 1994. The law allows both deceased and living donors to donate their organs. It also identifies brain death as a form of death.</h3>
+		</p>
+		<CENTER>
+		     <h1><b> BE A DONOR SAVE LIVES<b></h1>
+			 <img src="C:\Users\MBASYSTEM55\Desktop\213526\4.png" width= "15%" height="15%">
+			 <h2> THANK YOU</h2>
+			 <p><h3>DEVELOPED BY PRADEEP</h3></p>
+			 </center>
+			 </body>
+			 </html>
+
+
+	

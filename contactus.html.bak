@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+   <head>
+      <title>login</title>
+	   <style>
+	         body{
+			       background-image:('yash.jpg')
+				   background-repeat:no-repeat:
+				   background-attachment:fixed:
+				   background-size:100% 100%;
+                   }
+               .menuitems{
+			             
+						 padding:50px;
+					   }
+					   .menuitem{
+					              padding:30px;
+								 font-size:30px;
+								 text-decoration:none;
+								 color:blue;
+								 border:solid black;
+									 }
+									  .logo{
+									         margin-bottom:0;
+											 padding-left:0%;
+											} 
+											.home{
+											     font-size:40Px;
+												 align :right;
+												 }
+												 a:hover{
+								      background-color:black;
+									  color:white;
+									  }
+		 </style>
+	</head>
+	<body bgcolor="pink">
+		<div class="menuitems">
+		 <a href="home.html" class="menuitem">Home</a>
+		 <a href="login.html" class="menuitem">Login</a>
+		 <a href="register.html" class="menuitem">Register</a>
+		 <a href="contactus.html" class="menuitem">Contact us</a>
+         <a href="aboutus.html" class="menuitem">About us</a>
+		 </div>
+		<center>
+			  <h2>Contact us</h2>
+			  <form action="contactus.html" method="post">
+			     <center>
+				 <table>
+				    <tr>
+				    <td>NAME:</td>
+				    <td><input type="text" name="name"required placeholder="enter your name"></td>
+				    </tr><br>
+					<tr>
+					<td>EMAIL:</td>
+					<td><input type="email" name="email"></td>
+					</tr>
+					<tr><br>
+					<td>Mobile number:</td>
+					<td><input type="text" name="number"></td>
+					</tr><br>
+					<tr>
+					<td>Enter your problem :<td>
+		            <td><input type="text" name="enter your problem"></td>
+					</tr>
+                    <tr>
+					   <td>Location:</td>
+					   <td><input type="text" name="location"></td>
+					   </tr>
+					   
+					</table>
+					<p>
+					   
+					
+					</center>
+					</fieldset>
+					</form>
+					</body>
+					</html>
+
+
+		
+			
+
